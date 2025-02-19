@@ -12,8 +12,7 @@ Semester: Autumn Semester
 
 Course: Introduction to Software Development 41025
 
-Tutor: James Qu
-Team Members:
+Tutor: James Qu \n Team Members:
 1) Jayeob Lee (Leader)
 2) Jihye Lee
 3) Trisha Andalene
