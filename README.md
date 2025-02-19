@@ -7,7 +7,9 @@ Project Description: (study case)
 The current university (UTS) has been receiving numerous applications on travel funding either for conference or research in both domestic and international scope. In regard of the amount of applications, the university has yet to implement an automatic reviews to filter the eligible application. For the study case, the students are required to propose a well-developed prototype that considers the user experience (UX) and effective functionality. 
 
 Start date: 20 February 2025
+
 Semester: Autumn Semester
+
 Course: Introduction to Software Development 41025
 
 Tutor: James Qu
